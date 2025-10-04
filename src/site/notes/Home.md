@@ -37,3 +37,7 @@ Embeding a  note: ! [ [] ]
 
 
 
+Templates
+templater - można wyświetlac notatki z dziś np.
+można zmienić kolor węzłów graphów
+Open linked view -> open local graph for depth
