@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/veranika-s-digital-garden/","tags":["gardenEntry"]}
 ---
 
-
+THE SITE IS UNDER CONSTRUCTION, NOTHING TO SEE HERE :)
 
 This is your new *vault*.
 
